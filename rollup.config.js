@@ -14,5 +14,4 @@ export default {
       sourcemap: true
     }
   ],
-  experimentalCodeSplitting: true
 };
